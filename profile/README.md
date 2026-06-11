@@ -87,22 +87,7 @@ flowchart LR
 | **Landing / narrative** | [kynlet.com](https://kynlet.com) — honest validation-stage positioning |
 | **Evidence** | We do not claim revenue, logos, or production traction in public materials |
 
-Active engineering work lives in private monorepo submodules until we are ready to open more surface area. We publish selectively through **kynlet-public** and this organization profile.
-
----
-
-## Public repositories
-
-| Repository | Role |
-|------------|------|
-| **[kynlet-public](https://github.com/gpapai-labs/kynlet-public)** | Public narrative, validation framing, shareable Kynlet materials |
-| **[aegis](https://github.com/gpapai-labs/aegis)** | Umbrella workspace coordinating docs, frontend, platform, and infra submodules |
-| **[aegis-docs](https://github.com/gpapai-labs/aegis-docs)** | Product, brand, validation, and architecture documentation |
-| **[aegis-frontend](https://github.com/gpapai-labs/aegis-frontend)** | Kynlet marketing site and design-system implementation |
-| **[aegis-platform](https://github.com/gpapai-labs/aegis-platform)** | Core services and domain logic (early-stage) |
-| **[aegis-infra](https://github.com/gpapai-labs/aegis-infra)** | Infrastructure and deployment configuration |
-
-*Repository names retain the internal codename **Aegis** for continuity; the external product brand is **Kynlet**.*
+Active engineering work stays in private repositories during validation. We publish selectively through **[kynlet-public](https://github.com/gpapai-labs/kynlet-public)** and this organization profile.
 
 ---
 
@@ -110,12 +95,12 @@ Active engineering work lives in private monorepo submodules until we are ready 
 
 We think in graphs, but we sell outcomes — not category inflation.
 
-- **Stale-context detection** — identifying assumptions and execution paths that no longer match current product intent  
-- **Decision-change propagation** — treating a direction change as a first-class event with downstream effects  
-- **Downstream impact visibility** — what should have received updated context, and what still looks fine on a board but is not  
-- **Operational graph reasoning** — dependency-style models of how coordination context flows (visual and structural, not “another knowledge graph platform”)  
-- **Execution coherence** — alignment between evolving decisions and work in flight, especially as implementation velocity increases  
-- **Founder-led validation** — structured interviews, willingness-to-pay probes, and honest pre-build gates  
+- **Stale-context detection** — identifying assumptions and execution paths that no longer match current product intent
+- **Decision-change propagation** — treating a direction change as a first-class event with downstream effects
+- **Downstream impact visibility** — what should have received updated context, and what still looks fine on a board but is not
+- **Operational graph reasoning** — dependency-style models of how coordination context flows (visual and structural, not “another knowledge graph platform”)
+- **Execution alignment** — keeping evolving decisions and work in flight aligned, especially as implementation velocity increases
+- **Founder-led validation** — structured interviews, willingness-to-pay probes, and honest pre-build gates
 
 We avoid positioning as workflow automation, generic AI copilots, or enterprise transformation suites.
 
@@ -137,9 +122,9 @@ We bias toward readable architecture, explicit tradeoffs, and materials that sur
 
 ## Contact
 
-- **Product / validation:** [founders@kynlet.com](mailto:founders@kynlet.com)  
-- **Website:** [kynlet.com](https://kynlet.com)  
-- **Public materials:** [github.com/gpapai-labs/kynlet-public](https://github.com/gpapai-labs/kynlet-public)  
+- **Product / validation:** [founders@kynlet.com](mailto:founders@kynlet.com)
+- **Website:** [kynlet.com](https://kynlet.com)
+- **Public materials:** [github.com/gpapai-labs/kynlet-public](https://github.com/gpapai-labs/kynlet-public)
 
 For collaboration or diligence requests, email is preferred. We reply to serious founder and investor conversations during validation; we do not operate a sales queue.
 
