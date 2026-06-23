@@ -122,7 +122,7 @@ We bias toward readable architecture, explicit tradeoffs, and materials that sur
 
 ## Contact
 
-- **Product / validation:** [founders@kynlet.com](mailto:founders@kynlet.com)
+- **Product / validation:** [hello@kynlet.com](mailto:hello@kynlet.com)
 - **Website:** [kynlet.com](https://kynlet.com)
 - **Public materials:** [github.com/gpapai-labs/kynlet-public](https://github.com/gpapai-labs/kynlet-public)
 
