@@ -8,4 +8,6 @@ Primary public surfaces:
 
 - https://github.com/gpapai-labs
 - https://github.com/gpapai-labs/kynlet-public
-- https://kynlet.com
+- https://www.kynlet.com
+- https://www.kynlet.com/book-validation
+- https://www.kynlet.com/resources/

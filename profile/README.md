@@ -20,7 +20,7 @@ GPAP AI Labs exists to close that gap with calm, systems-level tooling — not u
 
 ## What we are building
 
-**[Kynlet](https://kynlet.com)** is our first product: decision-change impact visibility for technical SaaS teams.
+**[Kynlet](https://www.kynlet.com)** is our first product: decision-change impact visibility for technical SaaS teams.
 
 > Kynlet shows what became wrong when a product decision changed.
 
@@ -84,7 +84,7 @@ flowchart LR
 |------|--------|
 | **Commercial wedge** | Locked: decision-change impact for post-MVP technical founders |
 | **Product** | Pre-build validation; founder interviews and qualification in progress |
-| **Landing / narrative** | [kynlet.com](https://kynlet.com) — honest validation-stage positioning |
+| **Landing / narrative** | [www.kynlet.com](https://www.kynlet.com) — honest validation-stage positioning |
 | **Evidence** | We do not claim revenue, logos, or production traction in public materials |
 
 Active engineering work stays in private repositories during validation. We publish selectively through **[kynlet-public](https://github.com/gpapai-labs/kynlet-public)** and this organization profile.
@@ -114,7 +114,7 @@ We avoid positioning as workflow automation, generic AI copilots, or enterprise 
 |---|---|
 | **Founder** | [Aleksy Pyrz](https://www.linkedin.com/in/aleksypyrz/) |
 | **Company site** | [gitpushandpray.ai](https://www.gitpushandpray.ai) |
-| **Product** | [kynlet.com](https://kynlet.com) |
+| **Product** | [www.kynlet.com](https://www.kynlet.com) |
 
 We bias toward readable architecture, explicit tradeoffs, and materials that survive technical diligence — not slide-deck inflation.
 
@@ -122,8 +122,10 @@ We bias toward readable architecture, explicit tradeoffs, and materials that sur
 
 ## Contact
 
-- **Product / validation:** [hello@kynlet.com](mailto:hello@kynlet.com)
-- **Website:** [kynlet.com](https://kynlet.com)
+- **Email:** [hello@kynlet.com](mailto:hello@kynlet.com)
+- **Website:** [www.kynlet.com](https://www.kynlet.com)
+- **Book a validation conversation:** [www.kynlet.com/book-validation](https://www.kynlet.com/book-validation)
+- **Public resources:** [www.kynlet.com/resources/](https://www.kynlet.com/resources/)
 - **Public materials:** [github.com/gpapai-labs/kynlet-public](https://github.com/gpapai-labs/kynlet-public)
 
 For collaboration or diligence requests, email is preferred. We reply to serious founder and investor conversations during validation; we do not operate a sales queue.
